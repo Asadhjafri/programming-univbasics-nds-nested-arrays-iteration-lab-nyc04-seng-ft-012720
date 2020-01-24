@@ -1,5 +1,5 @@
 def join_ingredients(src)
-  toppings = [[food1, food2], [food3, food4]] # Given an Array of 2-element Arrays ( [ [food1, food2], [food3, # food4]....[foodN, foodM]]):
+  array_2 = [['pepperoni', 'sausage'], ['green olives', 'green peppers'], ['onions', 'pineapple']] # Given an Array of 2-element Arrays ( [ [food1, food2], [food3, # food4]....[foodN, foodM]]):
 
 
 
