@@ -1,15 +1,6 @@
 def join_ingredients(src)
   toppings = [[food1, food2], [food3, food4]] # Given an Array of 2-element Arrays ( [ [food1, food2], [food3, # food4]....[foodN, foodM]]):
 
-  row_index = 0
-while row_index < join_ingredients.count do
-  element_index = 0
-  while element_index < join_ingredients[row_index].count do
-    puts join_ingredients[row_index][element_index]
-    element_index += 1
-  end
-  row_index += 1
-end
 
 
   # Build a new Array that contains strings where each pair of foods is
