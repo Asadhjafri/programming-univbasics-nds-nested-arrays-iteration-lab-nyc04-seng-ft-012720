@@ -6,9 +6,9 @@ def join_ingredients(src)
     element_index = 0
     while element_index < join_ingredients[row_index].count do
       puts join_ingredients[row_index][element_index]
-      element_index += 1
+      element_index = 1
     end
-    row_index += 1
+    row_index = 1
   end
 
   # Build a new Array that contains strings where each pair of foods is
